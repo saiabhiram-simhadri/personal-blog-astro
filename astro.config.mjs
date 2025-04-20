@@ -108,7 +108,7 @@ export default defineConfig({
     }
   },
   experimental: {
-    svg: true,
+    // svg: true,
     contentIntellisense: true
   },
   vite: {
